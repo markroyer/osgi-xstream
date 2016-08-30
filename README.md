@@ -42,6 +42,8 @@ The license is BSD style.  See the included LICENSE file for details.
 
 ## Thanks
 
+The library was written by Joe Walnes et al.  For more information, please see [x-stream.github.io](http://x-stream.github.io/team.html).
+
 The ant build scripts are based on code from:
 
 [http://www.lorenzobettini.it/2015/01/creating-p2-composite-repositories-during-the-build/](http://www.lorenzobettini.it/2015/01/creating-p2-composite-repositories-during-the-build/)

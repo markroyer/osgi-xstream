@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature id="com.thoughtworks.xstream.feature" version="0.0.0">
+      <category name="com.thoughtworks.xstream"/>
+   </feature>
+   <feature id="com.thoughtworks.xstream.feature.source" version="0.0.0">
+      <category name="com.thoughtworks.xstream.source"/>
+   </feature>
+   <category-def name="com.thoughtworks.xstream" label="Xstream">
+      <description>
+         Xstream binary files.
+      </description>
+   </category-def>
+   <category-def name="com.thoughtworks.xstream.source" label="Xstream (Sources)">
+      <description>
+         Xstream source files.
+      </description>
+   </category-def>
+</site>
